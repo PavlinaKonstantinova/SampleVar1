@@ -2,7 +2,7 @@
 
 // this is   VAR2  on  12:06  omn May 11 for test GitHub
 
-
+// modified version 3 !!!!
 //
 //	Lotto 2016 * Acceptor 
 //	

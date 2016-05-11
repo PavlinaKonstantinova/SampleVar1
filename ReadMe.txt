@@ -9,3 +9,9 @@ May 11 ,  12:06   this is Var2 with the following changes
 
 In *.sql file the type  of  statusID`  is changed from tinyint?/(4) to   int(11) 
 In *.php  a new comment is added   
+
+~~~~~~~  Version 3
+Modified for ver. 3
+
+In *.sql file the type  of  statusID`  is changed to int(3)) 
+In *.php  a new comment is added   
