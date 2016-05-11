@@ -27,7 +27,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 CREATE TABLE IF NOT EXISTS `codes` (
   `codeID` varchar(4) NOT NULL DEFAULT '',
-  `statusID` tinyint(4) NOT NULL DEFAULT '0',
+  `statusID` int(11) NOT NULL DEFAULT '0',
   `prizeTypeID` int(11) NOT NULL DEFAULT '0',
   PRIMARY KEY (`codeID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
