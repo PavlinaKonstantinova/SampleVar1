@@ -1,8 +1,8 @@
 <?php 
 
-// this is   VAR2  on  12:06  omn May 11 for test GitHub
+//this is VAR ? see below on ~10:40 on May 15 for test GitHub new versions
 
-// modified version 3 !!!!
+// modified version4 !!!! on ~10:40 on May 15 for 
 //
 //	Lotto 2016 * Acceptor 
 //	
